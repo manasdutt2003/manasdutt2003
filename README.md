@@ -8,6 +8,10 @@ B.Tech in Computer Science, VIT Chennai.
 
 [Portfolio](https://manasdutt2003.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/manas-dutt-1bb42228b/) · [Email](mailto:manasdutt2003@gmail.com)
 
+## Open-source tool
+
+**[numblame](https://github.com/manasdutt2003/numblame)**: `git blame` for numbers. Point at any figure in the output of a SQL pipeline and it shows the source rows behind it, explains why it changed between runs, and finds the commit that changed it. Python, DuckDB and sqlglot.
+
 ## Data engineering capstones
 
 Five projects from the Perficient Global AI First Academy, one per week, each delivered with tests and documentation.
