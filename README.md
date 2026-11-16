@@ -49,4 +49,10 @@ Five projects from the Perficient Global AI First Academy, one per week, each de
 ## Recent changes
 
 <!-- recent:start -->
+- 2026-11-16: [developer-portfolio](https://github.com/manasdutt2003/developer-portfolio) - [README: document more editable content locations and project layout](https://github.com/manasdutt2003/developer-portfolio/pull/11)
+- 2026-11-16: [InvoiceExtractor](https://github.com/manasdutt2003/InvoiceExtractor) - [Extract core logic into a tested module; add validation, normalisation checks, Dockerfile and docs](https://github.com/manasdutt2003/InvoiceExtractor/pull/6)
+- 2026-11-16: [Learning-Style-Identification-using-semi-supervised-learning](https://github.com/manasdutt2003/Learning-Style-Identification-using-semi-supervised-learning) - [Make stats/PDF scripts configurable and honest, add tests and architecture doc](https://github.com/manasdutt2003/Learning-Style-Identification-using-semi-supervised-learning/pull/5)
+- 2026-11-16: [LeetMetric](https://github.com/manasdutt2003/LeetMetric) - [Add Docker support and architecture documentation](https://github.com/manasdutt2003/LeetMetric/pull/10)
+- 2026-11-16: [capstone-hospital-management-system](https://github.com/manasdutt2003/capstone-hospital-management-system) - [Restore Patient.notify body (fixes CI lint failure)](https://github.com/manasdutt2003/capstone-hospital-management-system/pull/5)
+- 2026-11-13: [developer-portfolio](https://github.com/manasdutt2003/developer-portfolio) - [ci: add automated CI, CodeQL and Dependabot workflows](https://github.com/manasdutt2003/developer-portfolio/pull/2)
 <!-- recent:end -->
