@@ -8,9 +8,11 @@ B.Tech in Computer Science, VIT Chennai.
 
 [Portfolio](https://manasdutt2003.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/manas-dutt-1bb42228b/) · [Email](mailto:manasdutt2003@gmail.com)
 
-## Open-source tool
+## Open-source tools
 
 **[numblame](https://github.com/manasdutt2003/numblame)**: `git blame` for numbers. Point at any figure in the output of a SQL pipeline and it shows the source rows behind it, explains why it changed between runs, and finds the commit that changed it. Python, DuckDB and sqlglot.
+
+**[ledgermatch](https://github.com/manasdutt2003/ledgermatch)**: a bank reconciliation engine. It matches a bank statement to a ledger, including batch deposits, split payments, processing fees and keying errors, and explains every cent of the difference. Python, with a benchmark that measures its accuracy against known answers.
 
 ## Data engineering capstones
 
