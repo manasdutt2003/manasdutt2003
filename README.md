@@ -55,10 +55,10 @@ Five projects from the Perficient Global AI First Academy, one per week, each de
 ## Recent changes
 
 <!-- recent:start -->
+- 2026-11-21: [Integrated-Tracking-and-Reporting-System](https://github.com/manasdutt2003/Integrated-Tracking-and-Reporting-System) - [Add health check, bus search filter, tests, Dockerfile and architecture docs](https://github.com/manasdutt2003/Integrated-Tracking-and-Reporting-System/pull/6)
 - 2026-11-19: [final-portfolio](https://github.com/manasdutt2003/final-portfolio) - [Add Docker support, env-based site URL, and testable daily-activity script](https://github.com/manasdutt2003/final-portfolio/pull/10)
 - 2026-11-18: [Deepfake-Detection-Model](https://github.com/manasdutt2003/Deepfake-Detection-Model) - [Add config, validation, logging, tests, Docker and architecture docs](https://github.com/manasdutt2003/Deepfake-Detection-Model/pull/6)
 - 2026-11-16: [developer-portfolio](https://github.com/manasdutt2003/developer-portfolio) - [README: document more editable content locations and project layout](https://github.com/manasdutt2003/developer-portfolio/pull/11)
 - 2026-11-16: [InvoiceExtractor](https://github.com/manasdutt2003/InvoiceExtractor) - [Extract core logic into a tested module; add validation, normalisation checks, Dockerfile and docs](https://github.com/manasdutt2003/InvoiceExtractor/pull/6)
 - 2026-11-16: [Learning-Style-Identification-using-semi-supervised-learning](https://github.com/manasdutt2003/Learning-Style-Identification-using-semi-supervised-learning) - [Make stats/PDF scripts configurable and honest, add tests and architecture doc](https://github.com/manasdutt2003/Learning-Style-Identification-using-semi-supervised-learning/pull/5)
-- 2026-11-16: [LeetMetric](https://github.com/manasdutt2003/LeetMetric) - [Add Docker support and architecture documentation](https://github.com/manasdutt2003/LeetMetric/pull/10)
 <!-- recent:end -->
